@@ -1,5 +1,6 @@
 # UCI Wine Quality Data Set
 For Keras Tutorial (DataCamp)
+UCI repo link: https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 Citation Request:
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
